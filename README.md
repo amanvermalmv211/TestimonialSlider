@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑🏻‍💻 Tech Stack
 
 - **Frontend**: HTML5, CSS3  
 - **Logic**: Vanilla JavaScript  
